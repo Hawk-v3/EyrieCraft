@@ -1,0 +1,13 @@
+name = "Eyrie Craft"
+author = "Hawk_v3"
+version = "0.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8784bfff0d1be3cb8c92f5ded8ea47ba3de3617b36c12f18832d8d7b73772c2b"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
