@@ -56,6 +56,11 @@ hash = "6e7b095731c6ce98562e8ab496640fae026ae7ed297d17bdcbc44bb1944877b6"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "a98470e7afbb46086e150bf979c2c452007e31a5adfb4f0b3fa82f8058f3ba8a"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "c407bf41307cec319a571af2f4176388fa30347a351755afc0566943e8cf290c"
 metafile = true
