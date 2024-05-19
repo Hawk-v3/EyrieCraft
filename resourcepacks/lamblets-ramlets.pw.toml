@@ -1,0 +1,13 @@
+name = "Lamblets & Ramlets"
+filename = "L&R - Diversity.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k5jW7miN/versions/NJgcgnKZ/L%26R%20-%20Diversity.zip"
+hash-format = "sha1"
+hash = "837f45572fc374b7b766e1277e97a64efdcb7549"
+
+[update]
+[update.modrinth]
+mod-id = "k5jW7miN"
+version = "NJgcgnKZ"
