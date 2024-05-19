@@ -21,8 +21,18 @@ hash = "d781f0383e4bf46d5f659cb5d2a7f840dbf6606e2d494a48c9771580fb7ad96f"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "cd9782ab1684fb02954cf440b429b747493f9e3b8e4a954fafbafe908f63a818"
+metafile = true
+
+[[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "ad82b229a3e4341ead017bf2f9260b8e229e18e212bbf2f38495e27f09ae86fa"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "9022ec899edf2af44a13d5d715b10661f394672306e3cff5b29bdd7452c783f7"
 metafile = true
 
 [[files]]
@@ -38,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "ced02214c59d09c257a5c0840ca0152b567980d2da93c86ef86341018f779762"
+metafile = true
+
+[[files]]
+file = "mods/compass3d.pw.toml"
+hash = "6e7b095731c6ce98562e8ab496640fae026ae7ed297d17bdcbc44bb1944877b6"
 metafile = true
 
 [[files]]
@@ -76,6 +91,11 @@ hash = "a8660ac55adb2d56937321b74621f67683e140299deb7e71e3ca5b0689cb144a"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "78d4c237ba3df54e7a3912a9a70aceab95bd1216b97df36379ad43b4f3fc4511"
+metafile = true
+
+[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "59a94286b57629f2c95d778c9b577a9a07cd6cf401bb54442658428d1575c86b"
 metafile = true
@@ -96,6 +116,16 @@ hash = "3251a3699322607d89dccdd4efef359e0aaa2f9a21e011265c36e165423d83c9"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "d5dd2ff45974aaf530fb0d6233cb64c55d220a6279a438e81ee45eca320412c5"
+metafile = true
+
+[[files]]
+file = "mods/extraalchemy.pw.toml"
+hash = "8fcc97c8788ad77b7587f4879e9e4ccac7bec43aeceeb7dcdb993eacc645c323"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9a3aae05d74e6552921df4cf80411d096cf8754ac386e2bd3bdaa9b24247838b"
 metafile = true
@@ -113,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/fxnt-create-storage.pw.toml"
 hash = "05b5bf33a20090080fcb645928474f0547152265d74825baa00203808034c5c7"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
 metafile = true
 
 [[files]]
@@ -186,8 +221,18 @@ hash = "a5ab654878ee399f48b7002422099cf36de0f422f48b87db2accfc2bef2ba6b2"
 metafile = true
 
 [[files]]
+file = "mods/miners-compass.pw.toml"
+hash = "b3dac9d7ccf1fb5e6230aa84d52e09dcf8d2ba82fdd3e431e1c1fc15e7f9a5a2"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "f634e8419291f504cdbfcb8475c4efc6b95732bf4b83e474bd6618fd0f3fc4f5"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
 
 [[files]]
@@ -206,6 +251,11 @@ hash = "fff1d88316c49b5a377a65c09f1ddf1579ccabef3d9e4d0a3f2dd9a21566237c"
 metafile = true
 
 [[files]]
+file = "mods/portal-linking-compass.pw.toml"
+hash = "bcd30190fa5abbe0704ae38063b2fe28b931f0d2c8c823e9d64c6e3928d5a9f1"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "f8ef92bbce17ce0702506055b8eb2e686a3cbb23e1fd3848d122e17fd122d5e7"
 metafile = true
@@ -213,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "02353acc492e7532d30ed6113979ddb60b0334c0ca916ef58eb262c331cfb8f0"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "03462e595bdf44957bbaf004c0b275a11d19128df3519b52880ce9179e0f3727"
 metafile = true
 
 [[files]]

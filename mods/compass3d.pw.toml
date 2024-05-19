@@ -1,0 +1,13 @@
+name = "Compass3D"
+filename = "compass3d-2.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fK1LHuQH/versions/pl4bclIo/compass3d-2.2.0.jar"
+hash-format = "sha1"
+hash = "bf62b8fbec489c35b446daaae53fc9da81ba9728"
+
+[update]
+[update.modrinth]
+mod-id = "fK1LHuQH"
+version = "pl4bclIo"
