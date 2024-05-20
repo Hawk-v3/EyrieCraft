@@ -61,6 +61,11 @@ hash = "a98470e7afbb46086e150bf979c2c452007e31a5adfb4f0b3fa82f8058f3ba8a"
 metafile = true
 
 [[files]]
+file = "mods/create-air-fabric.pw.toml"
+hash = "c5ed8f788371776fa029b0e5a2ea95b56ffd7611a1b31dc93100d39d0f1fcbd5"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "c407bf41307cec319a571af2f4176388fa30347a351755afc0566943e8cf290c"
 metafile = true
@@ -73,11 +78,6 @@ metafile = true
 [[files]]
 file = "mods/create-food.pw.toml"
 hash = "5c538870434c6dcc70d66c16fcfa1b06bf393cf03bacc73b3f470338bac205a1"
-metafile = true
-
-[[files]]
-file = "mods/create-molten-metals.pw.toml"
-hash = "fcde7b39e5fe6f8a10af55d425d221654dc25d6553258e923418e261fb80c3a4"
 metafile = true
 
 [[files]]
@@ -266,6 +266,11 @@ hash = "bcd30190fa5abbe0704ae38063b2fe28b931f0d2c8c823e9d64c6e3928d5a9f1"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "5017352458c35693d4aa0ea8872a0e6b80a6c128a5866327b02263d2ce87c9c4"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "f8ef92bbce17ce0702506055b8eb2e686a3cbb23e1fd3848d122e17fd122d5e7"
 metafile = true
@@ -298,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
 hash = "b00e09102201b18646ff26c0181ee9fb0e129f88712220e45ab9e706839a8baf"
+metafile = true
+
+[[files]]
+file = "mods/thin-air.pw.toml"
+hash = "3710be882250db9f492a14ab7b2b43c4e381caf6032bc276c872bd5485af5a26"
 metafile = true
 
 [[files]]
