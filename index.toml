@@ -146,16 +146,6 @@ hash = "b03d932c218d2f12b14db675c8d1e7fb426d2b0688b3ba4a914657a47c6cd836"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
-metafile = true
-
-[[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
-metafile = true
-
-[[files]]
 file = "mods/fxnt-create-storage.pw.toml"
 hash = "05b5bf33a20090080fcb645928474f0547152265d74825baa00203808034c5c7"
 metafile = true
@@ -183,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "ae807fdde280508d842067b76ebc73038868d0e28d51bb74acd27a99864b8c97"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
@@ -233,16 +218,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "4a3ef996125f866947d7f7fdc421cd7e940c655931d77a6876d79acb700f8081"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
@@ -306,11 +281,6 @@ hash = "c809bfe139af69c69954cde089b3e97c86a4ec391b7c99638c9055ef751e14ec"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "c9f0856e25a1f1929b284071449a7bbab18a87efc81a4df15650888c13bd4965"
 metafile = true
@@ -323,11 +293,6 @@ metafile = true
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
 hash = "b00e09102201b18646ff26c0181ee9fb0e129f88712220e45ab9e706839a8baf"
-metafile = true
-
-[[files]]
-file = "mods/treechop.pw.toml"
-hash = "27e7e48b7af508ecf27f389f37c6ab60e72a947f476d5e427927a6de70442de2"
 metafile = true
 
 [[files]]
