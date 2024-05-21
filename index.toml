@@ -16,6 +16,11 @@ hash = "52e0fc63daa8bba3871cd115f1906e3f43b922c3ce9d96a1c1cb14db519f067c"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "e853b0a08068b6cdaa7f84702b71b336c0fdedc3ea84642ea095d05b3796a05d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "d781f0383e4bf46d5f659cb5d2a7f840dbf6606e2d494a48c9771580fb7ad96f"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "cd9782ab1684fb02954cf440b429b747493f9e3b8e4a954fafbafe908f63a818"
+metafile = true
+
+[[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "9089139f1711f4e4289b0953faa3bb85afda39497538f944a28e9800bb7ac1fb"
 metafile = true
 
 [[files]]
@@ -43,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "bf217f6c8a57689df490f7b0793f51227feb4d947d61a84ed9af6b34a9b3631f"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "7b9d20d3402ad364b39b04037d16d9e1dfb2439605d99d72a5bc1fd9612091bf"
 metafile = true
 
 [[files]]
@@ -98,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "78d4c237ba3df54e7a3912a9a70aceab95bd1216b97df36379ad43b4f3fc4511"
+metafile = true
+
+[[files]]
+file = "mods/death-backup.pw.toml"
+hash = "dd6274c1e80bb91e0278a5e69e397f0df344e39bfff355bd651f9481fdec8f4c"
 metafile = true
 
 [[files]]
@@ -226,6 +246,11 @@ hash = "4a3ef996125f866947d7f7fdc421cd7e940c655931d77a6876d79acb700f8081"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "a5ab654878ee399f48b7002422099cf36de0f422f48b87db2accfc2bef2ba6b2"
 metafile = true
@@ -233,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/miners-compass.pw.toml"
 hash = "b3dac9d7ccf1fb5e6230aa84d52e09dcf8d2ba82fdd3e431e1c1fc15e7f9a5a2"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
@@ -248,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/nerb.pw.toml"
 hash = "23edd3d93b4660bbe06d1d449d70bb8307b974f205ad405bf77f678d8d8290a5"
+metafile = true
+
+[[files]]
+file = "mods/notify.pw.toml"
+hash = "ea22f46bb755b05fe77698b3cf4b385179d2e7e7cfea4bd7c4e1dd15e5930968"
 metafile = true
 
 [[files]]
