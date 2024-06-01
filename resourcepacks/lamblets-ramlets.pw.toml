@@ -1,13 +1,13 @@
 name = "Lamblets & Ramlets"
-filename = "L&R - Diversity.zip"
+filename = "L&R - Simplicity.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/k5jW7miN/versions/NJgcgnKZ/L%26R%20-%20Diversity.zip"
+url = "https://cdn.modrinth.com/data/k5jW7miN/versions/qj2n5YiA/L%26R%20-%20Simplicity.zip"
 hash-format = "sha1"
-hash = "837f45572fc374b7b766e1277e97a64efdcb7549"
+hash = "848e1f738d2131f476eb92f445108270325f105e"
 
 [update]
 [update.modrinth]
 mod-id = "k5jW7miN"
-version = "NJgcgnKZ"
+version = "qj2n5YiA"
