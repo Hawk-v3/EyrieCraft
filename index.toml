@@ -191,11 +191,6 @@ hash = "3ca2f182a2150e5beb80c1f9305c574657e885fd055e76c74dda42e7c86f8c9c"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "6531519e0d0cde50de7094277f28ab62dd1bca7a37501b72f52f52ffd5c4e3fa"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "ae807fdde280508d842067b76ebc73038868d0e28d51bb74acd27a99864b8c97"
 metafile = true
@@ -246,11 +241,6 @@ hash = "4a3ef996125f866947d7f7fdc421cd7e940c655931d77a6876d79acb700f8081"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases.pw.toml"
-hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "a5ab654878ee399f48b7002422099cf36de0f422f48b87db2accfc2bef2ba6b2"
 metafile = true
@@ -283,6 +273,16 @@ metafile = true
 [[files]]
 file = "mods/notify.pw.toml"
 hash = "ea22f46bb755b05fe77698b3cf4b385179d2e7e7cfea4bd7c4e1dd15e5930968"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "b61858247ad476daca4d59fce04e029924d9215207f260c338ce9a446f90f461"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "a8e78756fab40c2ca32794f30aa1c8188e721c463f6c797e1b3b7d972ae0d8b1"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "e4ce94d62c01390945fd38d7e1320fb437b6076f330d2ffaad26709ea5d6396f"
+hash = "bf1b8d38dfcc4cc3d4c4dfd22f9476ad4b5e9ae860162ca723359c901069e925"
 metafile = true
 
 [[files]]
