@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "78d4c237ba3df54e7a3912a9a70aceab95bd1216b97df36379ad43b4f3fc4511"
+hash = "73bd19d7f270af2575f17aba0c51a04b6ff68d9e67e4cdb5e877bd1b6497270a"
 metafile = true
 
 [[files]]
@@ -271,6 +271,11 @@ hash = "23edd3d93b4660bbe06d1d449d70bb8307b974f205ad405bf77f678d8d8290a5"
 metafile = true
 
 [[files]]
+file = "mods/netherite-compass.pw.toml"
+hash = "87cca9291c0bcc66008255ac6c2bb1549407fa147456dfd2d577b8b6b248d222"
+metafile = true
+
+[[files]]
 file = "mods/notify.pw.toml"
 hash = "ea22f46bb755b05fe77698b3cf4b385179d2e7e7cfea4bd7c4e1dd15e5930968"
 metafile = true
@@ -353,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "501935c3bb6ef85b78bdba31dcc4fc55546da0b62ae06c50c8f47e6afb1caf79"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4c176f305e2b3c52b47c58d252a0e46e4a8d4b89043385090dae3e40e91ba0f9"
 metafile = true
 
 [[files]]
